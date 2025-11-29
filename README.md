@@ -3,6 +3,10 @@
 A modern, full-stack task management web application built with React and Node.js. Features a beautiful glassmorphic UI with smooth animations and a complete CRUD functionality for managing your daily tasks.
 
 ![Task Management App](./login.jpg)
+![Task Management App](./edit.jpg)
+![Task Management App](./Delete.jpg)
+
+
 
 ## ✨ Features
 
